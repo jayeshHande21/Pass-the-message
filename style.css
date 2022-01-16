@@ -1,0 +1,31 @@
+*{
+
+}
+body{
+    background-color: skyblue;
+}
+.box{
+    width:500px;
+    height:400px;
+    margin: auto;
+    background-color: rgba(0,0,0,0.2);
+    padding:2rem;
+    border-radius: 0.5rem;
+}
+input{
+    height:35px;
+    width:380px;
+    display: block;
+    border-radius: 0.2rem;
+}
+button{
+    margin: 9px;
+    width:90px;
+    font-size: large;
+    border-radius: 0.3rem;
+}
+
+#output{
+    color:white;
+    font-size: 40px;
+}
